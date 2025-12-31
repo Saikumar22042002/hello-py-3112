@@ -1,2 +1,2 @@
-# hello-py-3112
-DevOps automated project
+# devops-python
+Python based application
